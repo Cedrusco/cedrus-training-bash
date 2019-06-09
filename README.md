@@ -68,7 +68,7 @@ This project uses Docker containers to create a test environment to play around 
 - whereis
 - which
 
-## Level 2: Operators & Variables
+## Level 1: Operators & Variables
 
 - Variables
 - Parameters
@@ -76,12 +76,12 @@ This project uses Docker containers to create a test environment to play around 
 - Logical
 - IO
 
-## Level 3: Control Flow & Functions
+## Level 2: Control Flow & Functions
 
 - while, for, if/else
 - Functions
 
-## Level 4: Configuration & Advanced Commands
+## Level 3: Configuration & Advanced Commands
 
 - alias
 - .bashrc / .profile
