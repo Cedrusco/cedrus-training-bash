@@ -1,0 +1,12 @@
+sudo
+man
+less
+locate
+iputils-ping
+lsof
+wget
+openssh-client
+curl
+zip
+unzip
+rsync

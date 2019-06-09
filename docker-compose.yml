@@ -1,0 +1,18 @@
+version: "3.5"
+services:
+  ubuntu:
+    user: cedrus
+    hostname: cedrus-training-bash
+    build:
+      context: .
+      dockerfile: docker/ubuntu/Dockerfile
+  ssh-a:
+    hostname: cedrus-training-ssh-a
+    build:
+      context: .
+      dockerfile: docker/ssh/Dockerfile
+  ssh-b:
+    hostname: cedrus-training-ssh-b
+    build:
+      context: .
+      dockerfile: docker/ssh/Dockerfile
