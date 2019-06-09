@@ -92,7 +92,7 @@ This project uses Docker containers to create a test environment to play around 
 - grep
 - rsync
 - sed
-- sftp
+- scp
 - ssh
 - xargs
 
